@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
 
-        // Inicjalizacja pól
+        
         enable = findViewById(R.id.button);
         name = findViewById(R.id.editTextText);
         surname = findViewById(R.id.editTextText2);
